@@ -160,7 +160,7 @@ form{
     display: inline-block;
 }
 .fields input[type="text"]{
-    width:70%;
+    width:100%;
     padding: 5% 10%;
     font-size: 1rem;
 }
